@@ -10,7 +10,7 @@ void show_calificativ(double nr){
     cout<<"EXCELENT"<<endl;
   else if(nr>80)
     cout<<"BINE"<<endl;
-  else if(nr>60)
+  else if(nr>50)
     cout<<"SATISFACATOR"<<endl;
   else if(50>nr)
     cout<<"BAD"<<endl;

@@ -1,0 +1,5 @@
+Test:Evaluare la istorie
+Intrebari:
+Din cate culori este alcatuit drapelul RM? 3 2 doi trei patru;
+La ce data a inceput cel deal doilea razboi mondial? 3 3 22.06.1941 01.09.1940 01.09.1939;
+Cine a creat acest program ? 3 2 Maria Cristian Ion
